@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"schleicher.softwareoneproj","l":"schleicher.softwareoneproj"}];updateSearchResults();
